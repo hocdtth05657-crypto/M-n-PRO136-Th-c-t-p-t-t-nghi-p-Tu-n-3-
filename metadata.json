@@ -1,0 +1,6 @@
+{
+  "name": "Di Sản Võ Cổ Truyền & Hát Bội Bình Định",
+  "description": "Kho tàng tư liệu số hóa Võ cổ truyền và Hát Bội (Tuồng) Bình Định: bản đồ địa phương, lò võ, gánh hát, thư viện tư liệu số và cộng đồng văn hiến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

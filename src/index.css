@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-cinzel: "Cinzel", serif;
+  --color-lacquer: #8B2500;
+  --color-ochre: #C68642;
+  --color-amber-gold: #D4AF37;
+  --color-parchment: #F5EFEB;
+  --color-aged-paper: #FAF8F5;
+}
+
+body {
+  font-family: var(--font-sans);
+}
